@@ -1,0 +1,79 @@
+# Diese viminfo-Datei wurde von Vim 7.4 generiert.
+# Sie können sie verändern, wenn Sie vorsichtig vorgehen!
+
+# Wert von 'encoding', als diese Datei geschrieben wurde
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Befehlszeile Geschichte (neueste bis älteste):
+:wq
+:w
+
+# Suchausdruck Geschichte (neueste bis älteste):
+
+# Ausdruck Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Register:
+""1	LINE	0
+	let &t_SI = "\<Esc>[6 q"
+	let &t_SR = "\<Esc>[4 q"
+	let &t_EI = "\<Esc>[2 q"
+"2	LINE	0
+	
+"3	LINE	0
+	set guicursor+=i:blinkwait10
+"4	LINE	0
+	set guicursor+=n-v-c:blinkon0
+"5	LINE	0
+	set guicursor+=i:ver100-iCursor
+"6	LINE	0
+	set guicursor=n-v-c:block-Cursor
+"7	LINE	0
+	highlight iCursor guifg=white guibg=steelblue
+"8	LINE	0
+	highlight Cursor guifg=white guibg=black
+"9	LINE	0
+	
+"-	CHAR	0
+	default  
+
+# Datei-Marken:
+'0  22  0  ~/.vimrc
+'1  44  18  ~/.vimrc
+'2  45  23  ~/.vimrc
+'3  40  0  ~/.vimrc
+'4  45  0  ~/.vimrc
+'5  36  19  ~/.vimrc
+
+# Geschichte (neueste zuerst):
+-'  22  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  44  18  ~/.vimrc
+-'  45  0  ~/.vimrc
+-'  40  0  ~/.vimrc
+-'  36  19  ~/.vimrc
+-'  51  0  ~/.vimrc
+-'  48  0  ~/.vimrc
+-'  43  23  ~/.vimrc
+-'  50  0  ~/.vimrc
+-'  41  0  ~/.vimrc
+-'  47  0  ~/.vimrc
+
+# Geschichte der Markierungen innerhalb von Dateien (neueste zuerst):
+
+> ~/.vimrc
+	"	22	0
+	^	17	0
+	.	44	16
+	+	36	19
+	+	45	0
+	+	45	28
+	+	45	0
+	+	45	0
+	+	44	16
